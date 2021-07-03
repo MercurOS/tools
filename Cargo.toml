@@ -1,0 +1,8 @@
+[package]
+name = "mercuros-tools"
+version = "0.1.0"
+authors = ["Henry Carlson <henry.carlson@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+llvm-tools = "0.1"
